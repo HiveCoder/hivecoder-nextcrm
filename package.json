@@ -1,5 +1,5 @@
 {
-  "name": "nextcrm-app",
+  "name": "hive-crm",
   "version": "0.12.1",
   "private": true,
   "engines": {
@@ -209,5 +209,6 @@
       "sharp",
       "unrs-resolver"
     ]
-  }
+  },
+  "description": "Hive CRM - Powerful in One. Open-source CRM by HiveCoder."
 }

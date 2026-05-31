@@ -1,7 +1,7 @@
 {
   "RootLayout": {
-    "title": "NextCRM",
-    "description": "NextCRM is an open source CRM build on top of NextJS."
+    "title": "Hive CRM",
+    "description": "Hive CRM — Powerful in One. Manage contacts, deals, invoices, projects, and AI features all in your unified workspace."
   },
   "ModuleMenu": {
     "dashboard": "Dashboard",
